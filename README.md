@@ -11,5 +11,5 @@ Familiar with statistical analysis methods and hypothesis testing.
 🛠️ Stack
 
 📫 Let's Connect:
-Feel free to reach out to me through email at mozheyko.sn@gmail.com or connect with me on ([LinkedIn](https://www.linkedin.com/in/snezhana-mozheyko-a72183131/?originalSubdomain=pl)).
+Feel free to reach out to me through email at mozheyko.sn@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/snezhana-mozheyko-a72183131/?originalSubdomain=pl).
 

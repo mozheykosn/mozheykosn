@@ -9,7 +9,7 @@ Skilled in data visualization using tools like Tableau, matplotlib, and seaborn 
 Familiar with statistical analysis methods and hypothesis testing.
 
 🛠️ Stack
-![Python]([https://github.com/images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fpng-duxts&psig=AOvVaw2ExV-een6GTLjW42SJQ9sm&ust=1686084174385000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCXsKX_rP8CFQAAAAAdAAAAABAE))
+![Python](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg)
 
 📫 Let's Connect:
 

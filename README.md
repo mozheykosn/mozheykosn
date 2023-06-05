@@ -10,6 +10,8 @@ Familiar with statistical analysis methods and hypothesis testing.
 
 🛠️ Stack
 ![Python](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python" width="200" height="200">
+
 
 📫 Let's Connect:
 
